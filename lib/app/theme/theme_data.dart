@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learning/features/channel_card/channel_card.dart';
 import 'package:flutter_learning/widgets/search/ui/theme/colors.dart';
 import '../../shared/theme/theme_color.dart';
 
@@ -13,7 +12,6 @@ class AppTheme {
       textTheme: _textTheme,
       iconTheme: _iconTheme,
       extensions: <ThemeExtension<dynamic>>[
-        ChannelCardThemeColors.light,
         SearchHeaderThemeColors.light
       ]
     );

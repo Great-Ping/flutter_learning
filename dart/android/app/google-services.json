@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604856546524",
+    "project_id": "butt-f54c1",
+    "storage_bucket": "butt-f54c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604856546524:android:2304addb6bea57c9f13019",
+        "android_client_info": {
+          "package_name": "com.example.flutter_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjuRdHYrpSfgaZsvu-L6CQYGovQsKAHjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
